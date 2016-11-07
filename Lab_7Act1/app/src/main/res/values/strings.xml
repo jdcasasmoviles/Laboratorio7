@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Lab_7Act1</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_mis_preferencias">MisPreferencias</string>
+    <string name="Texto">Hello World, MenusActivity!</string>
+    <string name="ShowPreferences">Show Preferences</string>
+    <string name="ChangePreferences">Change Preferences</string>
+    <string name="Preferences">Preferences</string>
+</resources>
